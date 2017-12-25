@@ -1,4 +1,7 @@
 baseURL = "https://chenxinsi.github.io/myblog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+themeDir = "themes"
 publishDir = "docs"
+draft = false
+
